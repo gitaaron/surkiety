@@ -18,6 +18,8 @@ Without them we would be stuck with a single monolithic language because otherwi
 
 [Webpack](https://webpack.js.org/)
 
+[Parcel](https://parceljs.org/)
+
 [Lerna](https://lerna.js.org/)
 
 [Yeoman](https://yeoman.io/)
